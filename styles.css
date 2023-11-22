@@ -125,15 +125,11 @@ h3 {
 }
 
 /* press */
-#press {
-  background-color: #BEADFA;
-  text-align: center;
+#press{
+  padding: 3vw;
   padding-bottom: 3%;
 }
-.press-img {
-  width: 15%;
-  margin: 20px 20px 50px;
-}
+
 
 /* pricing */
 
@@ -250,13 +246,7 @@ background-image: linear-gradient(62deg, #aacdf0 0%, #dbc3f2 100%);
 }
 
 #cta {
-  background-color: #4158d0;
-  background-image: linear-gradient(
-    43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
-  );
+  background-image: radial-gradient( circle farthest-corner at 0.2% 0.5%,  rgba(68,36,164,1) 3.7%, rgba(84,212,228,1) 92.7% );
   text-align: center;
   padding: 100px 15% 40px;
 }
