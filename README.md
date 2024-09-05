@@ -1,4 +1,3 @@
 # HappyPuP
-Tech Fest Project
 
 
